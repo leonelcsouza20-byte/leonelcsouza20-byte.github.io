@@ -9,7 +9,7 @@ Sistema completo de gestão de vendas para lanchonetes, cantinas escolares e pro
 
 ## 🌐 Acesso Online
 
-**[🚀 Clique aqui para acessar o sistema](https://leonelsouzaz0-byte.github.io/)**
+**[🚀 Clique aqui para acessar o sistema](https://leonelcsouza20-byte.github.io)**
 
 O sistema funciona 100% offline após o primeiro acesso. Todos os dados são salvos localmente no seu navegador.
 
@@ -32,7 +32,7 @@ O sistema funciona 100% offline após o primeiro acesso. Todos os dados são sal
 
 ### Primeira vez
 
-1. Acesse: https://leonelsouzaz0-byte.github.io/
+1. Acesse: https://leonelcsouza20-byte.github.io
 2. Clique em **"Config"** no menu
 3. Clique em **"Criar Dados de Exemplo"** para popular o sistema
 4. Explore as funcionalidades!
